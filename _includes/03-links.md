@@ -1,1 +1,1 @@
-https://github.com/chewsty
+[github] https://github.com/chewsty
