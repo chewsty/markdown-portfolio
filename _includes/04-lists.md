@@ -1,3 +1,3 @@
-sleep
-water
-lolxd 😩
+- sleep
+- water
+- lolxd 😩
